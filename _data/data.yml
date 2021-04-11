@@ -3,25 +3,25 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Bethany Chamberlain
+    tagline: Aspiring Data Scientist in the Social Sciences
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: bethannchamber@gmail.com
+    phone: +45 91 97 23 87
+    website: 
+    linkedin: bethanyannc
+    xing:
+    github: bethannchamber
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -30,20 +30,20 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Italian
+        level: Intermediate
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Swedish/Danish
+        level: Beginner
 
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
+      - item: Reading
         link:
 
       - item: Cooking
+        link:
+
+      - item: Traveling
         link:
 
 career-profile:
