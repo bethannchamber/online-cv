@@ -104,6 +104,7 @@ education:
             statistics for social sciences. I used SPSS and Microsoft Office programs regularly.
 
 experiences:
+    title: Work Experience
     - role: External Lecturer
       time: 2021 - Present
       company: DIS Study Abroad, Copenhagen
@@ -135,9 +136,7 @@ experiences:
             - Time management skills: strict deadlines to meet
             - Friendliness and enthusiasm
 projects:
-    title: Volunteering
-    intro: >
-      Here you can see a brief explanation of my current volunteer activities.
+    title: Volunteer Experience
     assignments:
       - title: Foodsharing Copenhagen (2020 - Present)
         link: "foodsharingcph.org"
