@@ -49,16 +49,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am actively looking for positions related to research and data analysis in industry or academia in the Greater Copenhagen area. If remote work is supported by the company (now, but also in post-pandemic times), then I am open to any position in Europe or the US. 
+      Ideally, I hope to develop my data analysis and/or research skills by assisting with quantitative and/or qualitative research regardless of the topic. Depending on the project scope and the skills required, I would also be interested in independently leading the research process with the design (survey, interview schedule, etc), data collection (online, telephone, face-to-face), analysis, and finally the presentation (summary/visualization). 
+      Presently, I am independently developing new skills that will assist with future data analysis tasks including: Python, SQL, and Power BI. I'm familiar with Git, Anaconda/Conda, and Jupyter Notebook. I consider myself to be a quick learner and easily adaptable, so if the position requires learning of any particular programming language or software, I would enjoy - and rise to! - the challenge.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Research Methods in Psychology
+      university: University of Strathclyde
+      time: 2017 - 2018
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
