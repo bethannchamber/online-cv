@@ -43,8 +43,20 @@ sidebar:
       - item: Cooking
         link:
 
+      - item: Baking
+        link:
+      
       - item: Traveling
         link:
+
+      - item: Hiking
+        link:
+    
+    practical:
+      - item: US Citzenship
+      
+      - item: Danish Residence Permit 
+                (w/ right to work)
 
 career-profile:
     title: Career Profile
@@ -59,62 +71,65 @@ education:
       university: University of Strathclyde
       time: 2017 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Taught Modules:
+          - Quantitative Research Methods
+          - Qualitative Research Methods
+          - Software Skills
+          - Practical Research Skills
+        Dissertation Module:
+          - Title: Transliminality and Visual Perception: Investigating the interaction between transliminality scores
+                and the rate of inattentional and change blindness.
+          - Used E-Prime software to design computerized tasks to test change blindness and inattentional blindness
+          - Used Qualtrics to design and administer a survey to later sort participants into groups
+          - Used Calendly to organize lab visits for research participants to complete computerized tasks
+          - Used SPSS and Excel for data management and analysis
+        Activities:
+          - Acted as representative for the Research Methods postgraduate students
+          - Volunteered for weekly seminars from visiting researchers
+          - Engaged in various, general research-related activities in the department
+        Publication:
+          - 3rd author: Super-Recognisers show an advantage for other race face identification (doi.org/10.1002/acp.3608)
+        Award:
+          - Strathclyde Psychology Postgraduate Award for Academic Citizenship
+    - degree: BA in Psychology
+      university: Bemidji State University
+      time: 2012 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        During my undergraduate degree, I broadened my understanding of psychological concepts (e.g., cognitive psychology, personality psychology, 
+            abnormal psychology, counseling and crisis intervention, human sexuality, etcetera). I was also introduced to research methods and
+            statistics for social sciences. I used SPSS and Microsoft Office programs regularly.
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: External Lecturer
+      time: 2021 - Present
+      company: DIS Study Abroad, Copenhagen
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Lecturer for 'Public Mental Health' course. Responsible for one sycnhronous class a week using Zoom in Spring 2021.
+          - Skills developed and/or strengthened:
+            - Communication skills: feedback to students, lecture presentations
+            - Technical skills: Canvas, Zoom, Microsoft Office, Sli.do, Padlet, Coggle, general computer skills
+            - Research skills: course is based on peer-reviewed articles and reports from reputable organizations (e.g., WHO)
+    - role: English as a Second Language (ESL) Teacher
+      time: 2017 - 2020
+      company: VIPKID, Remote
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Instructed Chinese students (ages 5 to 16) using VIPKID's curriculum. Delivered synchronous, online video lessons and adjusted the material
+            to suit students' individual needs. Taught more than 3,000 classes and more than 800 students. Consistently received 5-star ratings from
+            satisfied parents and students.
+          - Skills developed and/or strengthened:
+            - Communication skills: feedback to students, parents, and company; communication across time zones and with language barriers
+            - Time management skills: strict 25- to 30-minute lessons
+            - Enthusiasm and adaptability
+            - General computer and technical skills including troubleshooting common issues
+    - role: Graduate Teaching Assistant
+      time: 2017 - 2018
+      company: University of Strathclyde, Glasgow
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Marked essays and lab reports, invigilated for tests, maintained paperwork, and met with students to provide direct feedback.
+          - Skills developed and/or strengthened:
+            - Varied communication skills (verbal and written feedback)
+            - Time management skills: strict deadlines to meet
+            - Friendliness and enthusiasm
 projects:
     title: Projects
     intro: >
@@ -168,23 +183,39 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Windows OS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Linux/Ubuntu
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: SPSS
+        level: 80%
+        
+      - name: Microsoft Office
+        level: 90%
+
+      - name: Jupyter Notebook
+        level: 50%
+
+      - name: Python
+        level: 35%
+
+      - name: HTML
+        level: 25%
+
+      - name: Power BI
+        level: 15%
+
+      - name: SQL
+        level: 5%
+
+      - name: Tableau
+        level: 5%
+
+      - name: R Studio
+        level: 5%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
