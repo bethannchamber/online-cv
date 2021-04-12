@@ -76,6 +76,7 @@ education:
           - Qualitative Research Methods
           - Software Skills
           - Practical Research Skills
+        
         Dissertation Module:
           - Title: Transliminality and Visual Perception: Investigating the interaction between transliminality scores
                 and the rate of inattentional and change blindness.
@@ -83,12 +84,15 @@ education:
           - Used Qualtrics to design and administer a survey to later sort participants into groups
           - Used Calendly to organize lab visits for research participants to complete computerized tasks
           - Used SPSS and Excel for data management and analysis
+        
         Activities:
           - Acted as representative for the Research Methods postgraduate students
           - Volunteered for weekly seminars from visiting researchers
           - Engaged in various, general research-related activities in the department
+        
         Publication:
           - 3rd author: Super-Recognisers show an advantage for other race face identification (doi.org/10.1002/acp.3608)
+        
         Award:
           - Strathclyde Psychology Postgraduate Award for Academic Citizenship
     - degree: BA in Psychology
@@ -189,12 +193,12 @@ skills:
 
       - name: Linux/Ubuntu
         level: 90%
-
-      - name: SPSS
-        level: 80%
         
       - name: Microsoft Office
         level: 90%
+
+      - name: SPSS
+        level: 80%
 
       - name: Jupyter Notebook
         level: 50%
